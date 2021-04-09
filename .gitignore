@@ -1,3 +1,12 @@
+
+/tags
+/cscope.out
+/cscope.out.*
+/cscope.in
+
+*.sw[po]
+*~
+
 # Prerequisites
 *.d
 
