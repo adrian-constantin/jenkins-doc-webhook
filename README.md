@@ -1,4 +1,4 @@
 # jenkins-doc-webhook
 
 ## Jenkins and GitHub integration
-Login process preventing auto-integration
+Interactive login modules like OAuth excessively complicating itegration and build triggers.
